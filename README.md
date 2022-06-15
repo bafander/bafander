@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bafander
 - 👀 I’m interested in hiring tech talent for a company based in Spain
-- 🌱 I’m currently learning many new things about new 
+- 🌱 I’m currently learning many new things about new things
 - 📫 Send me an email bafan@bluebullpartners.com
 
 <!---
